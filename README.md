@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+As Github 2FA is troublesome and copilot is stealing my code, I will be moving all of my small projects to my personal Git server at [git.imuslab.com](https://git.imuslab.com/). Thank you for your understanding!
+
+💬 You can reach me via [toby@imuslab.com](mailto:toby@imuslab.com) 
+
+
+
 <!--
 **tobychui/tobychui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

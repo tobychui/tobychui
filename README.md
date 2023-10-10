@@ -1,7 +1,7 @@
 [![imuslab-banner](https://imuslab.com/index/git.jpg)](https://imuslab.com)
 ### Hi there 👋
 
-As Github 2FA is troublesome and copilot is stealing my code, I will be moving all of my small projects to my personal Git server at [git.imuslab.com](https://git.imuslab.com/). Thank you for your understanding!
+As Github 2FA is troublesome, I will be moving all of my small / one-time projects to my personal Git server at [git.imuslab.com](https://git.imuslab.com/). You can find a lot of interesting small projects there too! 
 
 💬 You can reach me via [toby@imuslab.com](mailto:toby@imuslab.com) 
 
